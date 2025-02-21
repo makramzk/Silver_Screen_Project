@@ -1,3 +1,4 @@
-SELECT *
-FROM {{ ref('aggregated_movie_revenue') }}
-WHERE total_revenue < 0
+SELECT movie_id, month, location, COUNT(*) 
+FROM {{ ref('aggregated_rental_cost') }}
+GROUP BY movie_id, month, location
+HAVING COUNT(*) > 1
