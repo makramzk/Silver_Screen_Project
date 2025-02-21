@@ -18,7 +18,7 @@ Project Workflow:
 ✅ Task 2: Clean the data (Prepare a cleaned movie catalogue with essential movie details).Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/Movie_catalogue_Clean.Sql%20Lineage.png)
 ✅ Task 3: Aggregate movie revenue by movie, location, and month.Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/aggregated_movie_reveneu%20Lineage.png)
 ✅ Task 4: Aggregate rental cost data per movie, location, and month.Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/aggregated_rental_cost%20Lineage.png)
-✅ Task 5: Create a model to calculate Return on Investment (ROI) for movies based on revenue and rental cost.Click[here]
+✅ Task 5: Create a model to calculate Return on Investment (ROI) for movies based on revenue and rental cost.Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/Silver_screen_ROI%20Lineage.png)
 ✅ Task 6: Implement a singular test to validate data integrity.
 ✅ Task 7: Ensure successful execution of models using dbt run and dbt build.
 ## Data Sources:
