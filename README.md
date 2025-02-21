@@ -14,11 +14,11 @@ The final table includes the following columns:
   Tickets_sold
   Revenue
 Project Workflow:
-✅ Task 1: Define data sources through the .yml file.
-✅ Task 2: Clean the data (Prepare a cleaned movie catalogue with essential movie details).
-✅ Task 3: Aggregate movie revenue by movie, location, and month.
-✅ Task 4: Aggregate rental cost data per movie, location, and month.
-✅ Task 5: Create a model to calculate Return on Investment (ROI) for movies based on revenue and rental cost.
+✅ Task 1: Define data sources through the .yml file. Click[here]
+✅ Task 2: Clean the data (Prepare a cleaned movie catalogue with essential movie details).Click[here]
+✅ Task 3: Aggregate movie revenue by movie, location, and month.Click[here]
+✅ Task 4: Aggregate rental cost data per movie, location, and month.Click[here]
+✅ Task 5: Create a model to calculate Return on Investment (ROI) for movies based on revenue and rental cost.Click[here]
 ✅ Task 6: Implement a singular test to validate data integrity.
 ✅ Task 7: Ensure successful execution of models using dbt run and dbt build.
 ## Data Sources:
