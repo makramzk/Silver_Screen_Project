@@ -1,0 +1,331 @@
+MOVIE_ID,MOVIE_TITLE,GENRE,STUDIO,MONTH,LOCATION,RENTAL_COST,TICKETS_SOLD,REVENUE
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_001,2800000,3738,52732
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_001,2800000,3815,54636
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_001,2800000,4180,60241
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_001,2800000,4633,59689
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_001,2800000,4385,59371
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_001,2800000,3952,55562
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_002,2800000,3738,52732
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_002,2800000,3815,54636
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_002,2800000,4180,60241
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_002,2800000,4633,59689
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_002,2800000,4385,59371
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_002,2800000,3952,55562
+2024_MAR_002_120,Deadpool & Wolverine,Action,Marvel Studios,2024-07-01,NJ_001,600000,12491,174056
+2024_MAR_002_120,Deadpool & Wolverine,Action,Marvel Studios,2024-07-01,NJ_001,600000,5212,76450
+2024_MAR_002_120,Deadpool & Wolverine,Action,Marvel Studios,2024-07-01,NJ_002,600000,12491,174056
+2024_MAR_002_120,Deadpool & Wolverine,Action,Marvel Studios,2024-07-01,NJ_002,600000,5212,76450
+2024_MAR_002_120,Deadpool & Wolverine,Action,Marvel Studios,2024-07-01,NJ_003,600000,12491,174056
+2024_MAR_002_120,Deadpool & Wolverine,Action,Marvel Studios,2024-07-01,NJ_003,600000,5212,76450
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_001,900000,6365,88252
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_001,900000,6063,84380
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_001,900000,4737,65921
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_001,900000,4356,56094
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_003,900000,6365,88252
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_003,900000,6063,84380
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_003,900000,4737,65921
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_003,900000,4356,56094
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_001,720000,5829,82291
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_001,720000,6206,87456
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_001,720000,4049,57560
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_001,720000,4889,66398
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_002,720000,5829,82291
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_002,720000,6206,87456
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_002,720000,4049,57560
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_002,720000,4889,66398
+2024_WAR_005_150,Dune: Part Two,Sci-Fi,Warner Bros.,2024-03-01,NJ_001,400000,4775,65464
+2024_WAR_005_150,Dune: Part Two,Sci-Fi,Warner Bros.,2024-03-01,NJ_001,400000,11693,163265
+2024_WAR_005_150,Dune: Part Two,Sci-Fi,Warner Bros.,2024-03-01,NJ_002,400000,4775,65464
+2024_WAR_005_150,Dune: Part Two,Sci-Fi,Warner Bros.,2024-03-01,NJ_002,400000,11693,163265
+2024_WAR_005_150,Dune: Part Two,Sci-Fi,Warner Bros.,2024-03-01,NJ_003,400000,4775,65464
+2024_WAR_005_150,Dune: Part Two,Sci-Fi,Warner Bros.,2024-03-01,NJ_003,400000,11693,163265
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_001,600000,11598,162646
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_001,600000,370,5212
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_001,600000,4355,62999
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_001,600000,85,850
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_002,600000,11598,162646
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_002,600000,370,5212
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_002,600000,4355,62999
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_002,600000,85,850
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_003,600000,11598,162646
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_003,600000,370,5212
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_003,600000,4355,62999
+2024_UNI_006_135,Wicked (Part 1),Fantasy,Universal Pictures,2024-11-01,NJ_003,600000,85,850
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_001,880000,221,3111
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_001,880000,5274,67038
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_001,880000,6400,90034
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_001,880000,6074,84085
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_001,880000,117,936
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_001,880000,4661,63769
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_002,880000,221,3111
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_002,880000,5274,67038
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_002,880000,6400,90034
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_002,880000,6074,84085
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_002,880000,117,936
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_002,880000,4661,63769
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_003,880000,221,3111
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_003,880000,5274,67038
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_003,880000,6400,90034
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_003,880000,6074,84085
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_003,880000,117,936
+2024_LEG_007_125,Godzilla x Kong: The New Empire,Action,Legendary Pictures,2024-03-01,NJ_003,880000,4661,63769
+2024_DRE_008_098,Kung Fu Panda 4,Animation,DreamWorks,2024-03-01,NJ_002,280000,12304,171295
+2024_DRE_008_098,Kung Fu Panda 4,Animation,DreamWorks,2024-03-01,NJ_002,280000,4348,58694
+2024_DRE_008_098,Kung Fu Panda 4,Animation,DreamWorks,2024-03-01,NJ_003,280000,12304,171295
+2024_DRE_008_098,Kung Fu Panda 4,Animation,DreamWorks,2024-03-01,NJ_003,280000,4348,58694
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_001,1500000,4184,58467
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_001,1500000,476,6596
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_001,1500000,4266,60009
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_001,1500000,3650,51141
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_001,1500000,4072,53758
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_001,1500000,4639,62859
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_001,1500000,4659,58942
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_001,1500000,565,9080
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_002,1500000,4184,58467
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_002,1500000,476,6596
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_002,1500000,4266,60009
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_002,1500000,3650,51141
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_002,1500000,4072,53758
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_002,1500000,4639,62859
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_002,1500000,4659,58942
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_002,1500000,565,9080
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_003,1500000,4184,58467
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_003,1500000,476,6596
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_003,1500000,4266,60009
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_003,1500000,3650,51141
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_003,1500000,4072,53758
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_003,1500000,4639,62859
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_003,1500000,4659,58942
+2024_DIS_009_110,Mufasa: The Lion King,Unknown,Disney,2024-12-01,NJ_003,1500000,565,9080
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_001,720000,6512,90863
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_001,720000,6162,86735
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_001,720000,4152,59013
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_001,720000,5013,65161
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_002,720000,6512,90863
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_002,720000,6162,86735
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_002,720000,4152,59013
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_002,720000,5013,65161
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_001,900000,4252,59702
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_001,900000,4029,56051
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_001,900000,4451,60788
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_001,900000,4173,59065
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_001,900000,4398,55992
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_001,900000,4425,58407
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_001,420000,4019,56854
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_001,420000,3898,54771
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_001,420000,4109,56890
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_001,420000,4357,55421
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_001,420000,4190,55917
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_001,420000,5001,64709
+2024_PAR_018_110,Sonic the Hedgehog 3,Action,Paramount Pictures,2024-12-01,NJ_002,260000,11752,165484
+2024_PAR_018_110,Sonic the Hedgehog 3,Action,Paramount Pictures,2024-12-01,NJ_002,260000,4398,60275
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_001,320000,6140,85809
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_001,320000,6494,90909
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_001,320000,4214,57848
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_001,320000,4807,64579
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_002,420000,3986,55581
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_002,420000,4277,59880
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_002,420000,4097,54571
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_002,420000,3901,54419
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_002,420000,4431,57581
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_002,420000,3668,52623
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_002,720000,4055,56953
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_002,720000,4343,61188
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_002,720000,4396,56318
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_002,720000,4138,58116
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_002,720000,4610,56826
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_002,720000,4156,59636
+2024_SON_010_115,Venom: The Last Dance,Action,Sony Pictures,2024-10-01,NJ_001,240000,12032,167882
+2024_SON_010_115,Venom: The Last Dance,Action,Sony Pictures,2024-10-01,NJ_001,240000,4442,62721
+2024_SON_010_115,Venom: The Last Dance,Action,Sony Pictures,2024-10-01,NJ_003,240000,12032,167882
+2024_SON_010_115,Venom: The Last Dance,Action,Sony Pictures,2024-10-01,NJ_003,240000,4442,62721
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_002,600000,4086,57407
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_002,600000,4341,60572
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_002,600000,4226,58511
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_002,600000,4070,53618
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_002,600000,4141,52990
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_002,600000,4550,66532
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_002,720000,94,1325
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_002,720000,4007,56590
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_002,720000,4001,55655
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_002,720000,156,2340
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_002,720000,4213,58856
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_002,720000,5094,73756
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_002,720000,4779,63000
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_002,720000,4315,57978
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_002,640000,5885,82364
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_002,640000,165,2331
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_002,640000,4206,56708
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_002,640000,5957,83377
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_002,640000,4872,64199
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_002,640000,178,2314
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_003,640000,5885,82364
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_003,640000,165,2331
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_003,640000,4206,56708
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_003,640000,5957,83377
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_003,640000,4872,64199
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_003,640000,178,2314
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_002,600000,4060,57183
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_002,600000,3943,55032
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_002,600000,4203,58781
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_002,600000,111,1485
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_002,600000,4013,56534
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_002,600000,69,621
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_002,600000,4539,63620
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_002,600000,4152,54149
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_003,600000,4060,57183
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_003,600000,3943,55032
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_003,600000,4203,58781
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_003,600000,111,1485
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_003,600000,4013,56534
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_003,600000,69,621
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_003,600000,4539,63620
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_003,600000,4152,54149
+2024_WAR_231_120,Joker: Folie à Deux,Thriller,Warner Bros.,2024-10-01,NJ_003,300000,11908,166058
+2024_WAR_231_120,Joker: Folie à Deux,Thriller,Warner Bros.,2024-10-01,NJ_003,300000,4682,64260
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_003,720000,4055,56953
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_003,720000,4343,61188
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_003,720000,4396,56318
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_003,720000,4138,58116
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_003,720000,4610,56826
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_003,720000,4156,59636
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_002,680000,5903,82780
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_002,680000,5639,79594
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_002,680000,201,2756
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_002,680000,4784,61361
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_002,680000,4061,49851
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_002,680000,98,1470
+2024_WAR_231_120,Joker: Folie à Deux,Thriller,Warner Bros.,2024-10-01,NJ_002,300000,11908,166058
+2024_WAR_231_120,Joker: Folie à Deux,Thriller,Warner Bros.,2024-10-01,NJ_002,300000,4682,64260
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_002,900000,6365,88252
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_002,900000,6063,84380
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_002,900000,4737,65921
+2024_ILL_003_095,Despicable Me 4,Animation,Illumination,2024-07-01,NJ_002,900000,4356,56094
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_003,720000,5829,82291
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_003,720000,6206,87456
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_003,720000,4049,57560
+2024_DIS_004_105,Moana 2,Animation,Walt Disney,2024-11-01,NJ_003,720000,4889,66398
+2024_SON_010_115,Venom: The Last Dance,Action,Sony Pictures,2024-10-01,NJ_002,240000,12032,167882
+2024_SON_010_115,Venom: The Last Dance,Action,Sony Pictures,2024-10-01,NJ_002,240000,4442,62721
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_003,720000,6512,90863
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_003,720000,6162,86735
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_003,720000,4152,59013
+2024_WAR_011_105,Beetlejuice Beetlejuice,Comedy,Warner Bros.,2024-09-01,NJ_003,720000,5013,65161
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_002,900000,4252,59702
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_002,900000,4029,56051
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_002,900000,4451,60788
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_002,900000,4173,59065
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_002,900000,4398,55992
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_002,900000,4425,58407
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_003,600000,4086,57407
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_003,600000,4341,60572
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_003,600000,4226,58511
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_003,600000,4070,53618
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_003,600000,4141,52990
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_003,600000,4550,66532
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_001,720000,94,1325
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_001,720000,4007,56590
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_001,720000,4001,55655
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_001,720000,156,2340
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_001,720000,4213,58856
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_001,720000,5094,73756
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_001,720000,4779,63000
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_001,720000,4315,57978
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_003,420000,4019,56854
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_003,420000,3898,54771
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_003,420000,4109,56890
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_003,420000,4357,55421
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_003,420000,4190,55917
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_003,420000,5001,64709
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_001,600000,4060,57183
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_001,600000,3943,55032
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_001,600000,4203,58781
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_001,600000,111,1485
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_001,600000,4013,56534
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_001,600000,69,621
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_001,600000,4539,63620
+2024_NET_019_095,The Wild Robot,Animation,Netflix,2024-09-01,NJ_001,600000,4152,54149
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_003,320000,6140,85809
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_003,320000,6494,90909
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_003,320000,4214,57848
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_003,320000,4807,64579
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_003,420000,3986,55581
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_003,420000,4277,59880
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_003,420000,4097,54571
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_003,420000,3901,54419
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_003,420000,4431,57581
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_003,420000,3668,52623
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_001,720000,4055,56953
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_001,720000,4343,61188
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_001,720000,4396,56318
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_001,720000,4138,58116
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_001,720000,4610,56826
+2024_SON_043_110,Ghostbusters: Frozen Empire,Comedy,Sony Pictures,2024-03-01,NJ_001,720000,4156,59636
+2024_DRE_008_098,Kung Fu Panda 4,Animation,DreamWorks,2024-03-01,NJ_001,280000,12304,171295
+2024_DRE_008_098,Kung Fu Panda 4,Animation,DreamWorks,2024-03-01,NJ_001,280000,4348,58694
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_003,900000,4252,59702
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_003,900000,4029,56051
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_003,900000,4451,60788
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_003,900000,4173,59065
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_003,900000,4398,55992
+2024_PAR_012_140,Gladiator II,Action,Paramount Pictures,2024-11-01,NJ_003,900000,4425,58407
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_001,600000,4086,57407
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_001,600000,4341,60572
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_001,600000,4226,58511
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_001,600000,4070,53618
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_001,600000,4141,52990
+2024_SON_013_118,Bad Boys: Ride or Die,Unknown,Sony Pictures,2024-06-01,NJ_001,600000,4550,66532
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_001,680000,5903,82780
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_001,680000,5639,79594
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_001,680000,201,2756
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_001,680000,4784,61361
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_001,680000,4061,49851
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_001,680000,98,1470
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_003,680000,5903,82780
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_003,680000,5639,79594
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_003,680000,201,2756
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_003,680000,4784,61361
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_003,680000,4061,49851
+2024_20C_014_130,Kingdom of the Planet of the Apes,Sci-Fi,20th Century Studios,2024-05-01,NJ_003,680000,98,1470
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_003,720000,94,1325
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_003,720000,4007,56590
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_003,720000,4001,55655
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_003,720000,156,2340
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_003,720000,4213,58856
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_003,720000,5094,73756
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_003,720000,4779,63000
+2024_UNI_015_120,Twisters,Action,Universal Pictures,2024-07-01,NJ_003,720000,4315,57978
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_002,420000,4019,56854
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_002,420000,3898,54771
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_002,420000,4109,56890
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_002,420000,4357,55421
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_002,420000,4190,55917
+2024_UNI_016_115,It Ends with Us,Drama,Universal Pictures,2024-08-01,NJ_002,420000,5001,64709
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_001,640000,5885,82364
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_001,640000,165,2331
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_001,640000,4206,56708
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_001,640000,5957,83377
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_001,640000,4872,64199
+2024_20C_017_125,Alien: Romulus,Sci-Fi,20th Century Studios,2024-08-01,NJ_001,640000,178,2314
+2024_PAR_018_110,Sonic the Hedgehog 3,Action,Paramount Pictures,2024-12-01,NJ_001,260000,11752,165484
+2024_PAR_018_110,Sonic the Hedgehog 3,Action,Paramount Pictures,2024-12-01,NJ_001,260000,4398,60275
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_002,320000,6140,85809
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_002,320000,6494,90909
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_002,320000,4214,57848
+2024_PAR_032_105,A Quiet Place: Day One,Horror,Paramount Pictures,2024-06-01,NJ_002,320000,4807,64579
+2024_WAR_231_120,Joker: Folie à Deux,Thriller,Warner Bros.,2024-10-01,NJ_001,300000,11908,166058
+2024_WAR_231_120,Joker: Folie à Deux,Thriller,Warner Bros.,2024-10-01,NJ_001,300000,4682,64260
+2024_PAR_018_110,Sonic the Hedgehog 3,Action,Paramount Pictures,2024-12-01,NJ_003,260000,11752,165484
+2024_PAR_018_110,Sonic the Hedgehog 3,Action,Paramount Pictures,2024-12-01,NJ_003,260000,4398,60275
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_003,2800000,3738,52732
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_003,2800000,3815,54636
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_003,2800000,4180,60241
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_003,2800000,4633,59689
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_003,2800000,4385,59371
+2024_PIX_001_100,Inside Out 2,Animation,Pixar,2024-06-01,NJ_003,2800000,3952,55562
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_001,420000,3986,55581
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_001,420000,4277,59880
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_001,420000,4097,54571
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_001,420000,3901,54419
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_001,420000,4431,57581
+2024_ALC_234_90,The Garfield Movie,Comedy,Alcon Entertainment,2024-05-01,NJ_001,420000,3668,52623
