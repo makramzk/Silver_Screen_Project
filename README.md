@@ -19,7 +19,7 @@ Project Workflow:
 ✅ Task 3: Aggregate movie revenue by movie, location, and month.Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/aggregated_movie_reveneu%20Lineage.png)
 ✅ Task 4: Aggregate rental cost data per movie, location, and month.Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/aggregated_rental_cost%20Lineage.png)
 ✅ Task 5: Create a model to calculate Return on Investment (ROI) for movies based on revenue and rental cost.Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/Silver_screen_ROI%20Lineage.png)
-✅ Task 6: Implement a singular test to validate data integrity.
+✅ Task 6: Implement a singular test to validate data integrity.Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/Positive_ss_roi.sql%20Lineage.png)
 ✅ Task 7: Ensure successful execution of models using dbt run and dbt build.
 ## Data Sources:
 The data collected from the three Silver Screen theater locations come from five key sources:
