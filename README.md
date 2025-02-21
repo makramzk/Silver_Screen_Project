@@ -31,5 +31,5 @@ The data collected from the three Silver Screen theater locations come from five
 Each of these datasets plays a crucial role in analyzing the efficiency of the theaters and understanding the relationship between rental costs and revenue generation.
 Click  [here](https://drive.google.com/drive/folders/1HYCS_wyl_FkzcHjtoqIiNx0wNwUQhlga) to see these files.
 ## Result: 
-Click  [here] (https://github.com/makramzk/Silver_Screen_Project/blob/main/Silver_Screen_ROI.sql) to see Silver_Screen_ROI.sql
+Click  [here](https://github.com/makramzk/Silver_Screen_Project/blob/main/Silver_Screen_ROI.sql) to see Silver_Screen_ROI.sql
 
