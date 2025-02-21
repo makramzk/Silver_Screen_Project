@@ -14,7 +14,7 @@ The final table includes the following columns:
   Tickets_sold
   Revenue
 Project Workflow:
-✅ Task 1: Define data sources through the .yml file. Click[here]
+✅ Task 1: Define data sources through the .yml file. Click[here](https://github.com/makramzk/Silver_Screen_Project/blob/main/Schema.yml%20Lineage.png)
 ✅ Task 2: Clean the data (Prepare a cleaned movie catalogue with essential movie details).Click[here]
 ✅ Task 3: Aggregate movie revenue by movie, location, and month.Click[here]
 ✅ Task 4: Aggregate rental cost data per movie, location, and month.Click[here]
